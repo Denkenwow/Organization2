@@ -1,4 +1,4 @@
-# Organization2
+# Инструкция по запуску программы
 Organization2 desc
 
 1. open this
